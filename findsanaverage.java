@@ -1,6 +1,6 @@
 import java.util.stream.*; //imports java string utilities
 import java.util.Scanner;
-public class lessonwork2 {
+public class findsanaverage {
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
 
