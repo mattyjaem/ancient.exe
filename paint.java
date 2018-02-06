@@ -1,7 +1,7 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 public class Variables {
   public static void main (String [] args){
-    Scanner scan = new Scanner (System.in);
+    Scanner scan = new Scanner (System.in); 
       int num = 0;
       int num2 = 0;
       int num3 = 0;
