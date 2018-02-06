@@ -5,7 +5,7 @@ public class lessonwork2 {
         Scanner scan = new Scanner (System.in);
 
 int i=0
-
+//this is a pretty bad thing, please do not pay much attention. I am not quite sure what it does. the RegrEx is cool tho.
 while i<3;{
   System.out.println("enter test scores for test1 seperated by a comma");
   String str =scan.nextInt();
