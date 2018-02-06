@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class funinlessons {
+public class enteranumberiguess {
     public static void main(String[] args) {
 Scanner scan = new Scanner (System.in);
     int num = 0;
