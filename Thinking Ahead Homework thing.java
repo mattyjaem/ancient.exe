@@ -8,14 +8,14 @@ public class Main {
     }
     public static void task(int[] ListInt, int x, int[] divList){
 
-
-
+//passes through "length" number of times
         for (int i=0; i<ListInt.length; i++){
             if(ListInt[i] % 7 ==0){
                 divList[x] = ListInt[i];
                 x++;
             }
         }
+	    //outputs the array
         System.out.println(Arrays.toString(divList));
     }
 }
